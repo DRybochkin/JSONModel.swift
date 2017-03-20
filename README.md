@@ -1,0 +1,1 @@
+# JSONModel.swift
